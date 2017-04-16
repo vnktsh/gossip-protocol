@@ -14,3 +14,4 @@ libraryDependencies +=
 
 libraryDependencies +=
   "com.typesafe.akka" %% "akka-remote" % "2.3.7"
+
